@@ -32,3 +32,18 @@ Here are the screenshots of Student Result Management System UI
 
 ![Image](https://github.com/user-attachments/assets/3d6c7cda-4827-4330-961c-95d6d282868e)
 
+![Image](https://github.com/user-attachments/assets/b90892d3-0188-4242-a25d-0c28b2b16af5)
+
+![Image](https://github.com/user-attachments/assets/884554cc-990c-4818-b5e0-1bc899389058)
+
+![Image](https://github.com/user-attachments/assets/d424626f-c6da-4fc7-80c7-00869ff673be)
+
+![Image](https://github.com/user-attachments/assets/c835da38-6512-4f4c-be5c-3176c46daec9)
+
+![Image](https://github.com/user-attachments/assets/77e02653-7248-445c-af40-7025247bcd5f)
+
+![Image](https://github.com/user-attachments/assets/5f69ca21-cafe-47c6-b900-f5d011abcb92)
+
+![Image](https://github.com/user-attachments/assets/bec817ca-ee1d-48fa-9359-c33de9f42479)
+
+
