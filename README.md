@@ -27,3 +27,5 @@ Why This Project?
 
 Automates manual result processing, reducing errors.
 Efficient Data Handling – SQLite3 ensures fast and reliable storage.
+
+Here are the screenshots of Student Result Management System UI
