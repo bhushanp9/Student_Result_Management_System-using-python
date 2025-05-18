@@ -29,3 +29,6 @@ Automates manual result processing, reducing errors.
 Efficient Data Handling – SQLite3 ensures fast and reliable storage.
 
 Here are the screenshots of Student Result Management System UI
+
+![Image](https://github.com/user-attachments/assets/3d6c7cda-4827-4330-961c-95d6d282868e)
+
