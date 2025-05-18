@@ -5,10 +5,15 @@ The Student Result Management System (SRMS) is a Python-based application design
 Key Features
 
 ✅ User Authentication – Secure registration and login for authorized users (admins/teachers).
+
 ✅ Student Management – Add, update, and view student details (Name, Roll No, Email, etc.).
+
 ✅ Course Management – Create and modify courses (Course ID, Name, Credits).
+
 ✅ Result Management – Enter and update student marks, calculate grades, and store results.
+
 ✅ View Results – Search and display results by student ID or name.
+
 ✅ Logout & Exit – Safely end sessions or close the application.
 
 Technologies Used
